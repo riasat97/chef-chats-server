@@ -1,0 +1,4 @@
+1. install express, cors, nodemon if not installed
+2. create index.js file and create server.
+3. .gitignore node_modules
+4. add vercel.json with configuration

@@ -1,0 +1,323 @@
+[
+    {
+      "id": 1,
+      "chef_id": 1,
+      "name": "Tom Yum Goong",
+      "ingredients": [
+        "lemongrass",
+        "galangal",
+        "kaffir lime leaves",
+        "Thai chili peppers",
+        "fish sauce",
+        "lime juice",
+        "sugar",
+        "shrimp"
+      ],
+      "cooking_method": "1. Bring the water to a boil in a pot. 2. Add lemongrass, galangal, kaffir lime leaves and Thai chili peppers. 3. Add shrimp and cook until it turns pink. 4. Add fish sauce, lime juice, and sugar. 5. Garnish with cilantro leaves and serve hot.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "chef_id": 1,
+      "name": "Pad Thai",
+      "ingredients": [
+        "rice noodles",
+        "tamarind paste",
+        "fish sauce",
+        "sugar",
+        "Thai chili peppers",
+        "garlic",
+        "eggs",
+        "bean sprouts",
+        "green onions",
+        "peanuts"
+      ],
+      "cooking_method": "1. Soak the rice noodles in warm water for 30 minutes. 2. Mix the tamarind paste, fish sauce, and sugar in a bowl. 3. Heat oil in a wok, and stir-fry garlic and eggs. 4. Add noodles, the sauce, and stir-fry. 5. Add bean sprouts and green onions, and stir-fry until the vegetables are cooked. 6. Sprinkle peanuts and serve hot.",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "chef_id": 1,
+      "name": "Green Curry",
+      "ingredients": [
+        "green curry paste",
+        "coconut milk",
+        "sugar",
+        "fish sauce",
+        "Thai basil",
+        "eggplant",
+        "bell pepper",
+        "chicken"
+      ],
+      "cooking_method": "1. Heat the curry paste in a pan. 2. Add coconut milk, sugar, and fish sauce. 3. Add chicken and eggplant. 4. Simmer until the chicken is cooked. 5. Add bell pepper and Thai basil leaves. 6. Serve hot with rice.",
+      "rating": 4.3
+    },
+    {
+        "id": 4,
+        "chef_id": 2,
+        "name": "Tom Yum Soup",
+        "ingredients": [
+          "lemongrass",
+          "galangal",
+          "kaffir lime leaves",
+          "chili peppers",
+          "fish sauce",
+          "lime juice",
+          "shrimp",
+          "mushrooms"
+        ],
+        "cooking_method": "1. In a pot, simmer lemongrass, galangal, kaffir lime leaves, and chili peppers in water for 10 minutes.\n2. Add shrimp and mushrooms and cook until shrimp is pink.\n3. Add fish sauce and lime juice to taste.",
+        "rating": 4.5
+      },
+      {
+        "id": 5,
+        "chef_id": 2,
+        "name": "Pad Thai",
+        "ingredients": [
+          "rice noodles",
+          "shrimp",
+          "tofu",
+          "bean sprouts",
+          "scallions",
+          "eggs",
+          "peanuts",
+          "fish sauce",
+          "tamarind paste",
+          "sugar"
+        ],
+        "cooking_method": "1. Soak rice noodles in warm water for 20 minutes.\n2. Heat oil in a wok, add shrimp and tofu and cook until shrimp is pink.\n3. Add scallions, eggs, and noodles and stir-fry until noodles are cooked.\n4. Add bean sprouts, peanuts, fish sauce, tamarind paste, and sugar, and stir-fry until combined.",
+        "rating": 4.7
+      },
+      {
+        "id": 6,
+        "chef_id": 2,
+        "name": "Green Curry",
+        "ingredients": [
+          "green curry paste",
+          "coconut milk",
+          "chicken",
+          "eggplant",
+          "bamboo shoots",
+          "Thai basil",
+          "fish sauce",
+          "palm sugar"
+        ],
+        "cooking_method": "1. Heat oil in a wok, add green curry paste and cook for 1 minute.\n2. Add coconut milk and stir until curry paste is dissolved.\n3. Add chicken and cook until chicken is no longer pink.\n4. Add eggplant and bamboo shoots and simmer until vegetables are cooked.\n5. Add Thai basil, fish sauce, and palm sugar, and stir until combined.",
+        "rating": 4.6
+      },
+      {
+        "id": 7,
+        "chef_id": 3,
+        "name": "Pad Thai",
+        "ingredients": [
+          "rice noodles",
+          "bean sprouts",
+          "chicken",
+          "tofu",
+          "eggs",
+          "peanuts",
+          "fish sauce",
+          "tamarind paste",
+          "sugar"
+        ],
+        "cooking_method": "1. Soak noodles in warm water until soft. \n2. Heat oil in a wok or large frying pan over high heat. \n3. Add chicken and tofu and cook until browned. \n4. Add eggs and stir until cooked. \n5. Add noodles and sauce, stir until combined. \n6. Add bean sprouts and cook until softened. \n7. Serve topped with peanuts and lime wedges.",
+        "rating": 4.5
+      },
+      {
+        "id": 8,
+        "chef_id": 3,
+        "name": "Tom Yum Goong",
+        "ingredients": [
+          "prawns",
+          "lemongrass",
+          "galangal",
+          "kaffir lime leaves",
+          "chili peppers",
+          "mushrooms",
+          "fish sauce",
+          "lime juice",
+          "sugar"
+        ],
+        "cooking_method": "1. Heat broth in a pot over medium heat. \n2. Add lemongrass, galangal, and kaffir lime leaves, and simmer for 5 minutes. \n3. Add prawns, mushrooms, and chili peppers, and simmer for 2-3 minutes until prawns are pink. \n4. Add fish sauce, lime juice, and sugar to taste. \n5. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "id": 9,
+        "chef_id": 3,
+        "name": "Green Curry",
+        "ingredients": [
+          "chicken",
+          "green curry paste",
+          "coconut milk",
+          "bamboo shoots",
+          "Thai basil",
+          "fish sauce",
+          "sugar"
+        ],
+        "cooking_method": "1. Heat oil in a wok or large frying pan over medium-high heat. \n2. Add curry paste and cook until fragrant. \n3. Add chicken and cook until browned. \n4. Add coconut milk, bamboo shoots, fish sauce, and sugar. \n5. Simmer for 10-15 minutes until chicken is cooked through. \n6. Stir in Thai basil. \n7. Serve with rice.",
+        "rating": 4.8
+      },
+      {
+        "id": 10,
+        "chef_id": 4,
+        "name": "Tom Kha Gai",
+        "ingredients": [
+          "coconut milk",
+          "chicken",
+          "galangal",
+          "lemongrass",
+          "kaffir lime leaves",
+          "mushrooms",
+          "chili peppers",
+          "fish sauce",
+          "lime juice",
+          "coriander leaves"
+        ],
+        "cooking_method": "1. In a pot, bring the coconut milk to a boil. \n2. Add galangal, lemongrass, kaffir lime leaves, and chili peppers, and simmer for 5 minutes. \n3. Add chicken and mushrooms, and simmer until the chicken is cooked. \n4. Add fish sauce and lime juice to taste. \n5. Garnish with coriander leaves.",
+        "rating": 4.8
+      },
+      {
+        "id": 11,
+        "chef_id": 4,
+        "name": "Pad Thai",
+        "ingredients": [
+          "rice noodles",
+          "shrimp",
+          "tofu",
+          "bean sprouts",
+          "scallions",
+          "garlic",
+          "tamarind paste",
+          "fish sauce",
+          "sugar",
+          "peanuts",
+          "eggs"
+        ],
+        "cooking_method": "1. Soak the rice noodles in cold water for 30 minutes. \n2. Heat oil in a wok or frying pan over medium heat. Add garlic and shrimp, and stir fry until the shrimp are cooked. \n3. Add tofu, scallions, and bean sprouts, and stir fry for 1-2 minutes. \n4. Push the ingredients to the side of the pan, add eggs to the other side, and scramble until cooked. \n5. Add tamarind paste, fish sauce, and sugar to the pan, and stir until the sugar is dissolved. \n6. Add the drained noodles and toss everything together. \n7. Garnish with peanuts and lime wedges.",
+        "rating": 4.7
+      },
+      {
+        "id": 12,
+        "chef_id": 4,
+        "name": "Gaeng Daeng",
+        "ingredients": [
+          "coconut milk",
+          "chicken",
+          "red curry paste",
+          "bamboo shoots",
+          "Thai eggplant",
+          "kaffir lime leaves",
+          "Thai basil",
+          "fish sauce",
+          "palm sugar"
+        ],
+        "cooking_method": "1. In a pot, bring the coconut milk to a boil. \n2. Add red curry paste and stir until fragrant. \n3. Add chicken and stir until coated in the curry paste. \n4. Add bamboo shoots, Thai eggplant, and kaffir lime leaves, and simmer until the chicken is cooked. \n5. Add fish sauce and palm sugar to taste. \n6. Garnish with Thai basil leaves.",
+        "rating": 4.9
+      },
+      {
+        "id": 13,
+        "chef_id": 5,
+        "name": "Tom Yum Goong",
+        "ingredients": [
+          "shrimp",
+          "lemongrass",
+          "galangal",
+          "kaffir lime leaves",
+          "Thai chilies",
+          "mushrooms",
+          "fish sauce",
+          "lime juice"
+        ],
+        "cooking_method": "Boil water with lemongrass, galangal, and kaffir lime leaves. Add shrimp, mushrooms, and Thai chilies. Season with fish sauce and lime juice.",
+        "rating": 4.5
+      },
+      {
+        "id": 14,
+        "chef_id": 5,
+        "name": "Green Curry Chicken",
+        "ingredients": [
+          "chicken",
+          "coconut milk",
+          "green curry paste",
+          "Thai eggplant",
+          "bamboo shoots",
+          "kaffir lime leaves",
+          "fish sauce",
+          "palm sugar"
+        ],
+        "cooking_method": "Heat coconut milk and green curry paste in a pot. Add chicken and cook until tender. Add Thai eggplant, bamboo shoots, and kaffir lime leaves. Season with fish sauce and palm sugar.",
+        "rating": 4.8
+      },
+      {
+        "id": 15,
+        "chef_id": 5,
+        "name": "Pad Kra Pao Moo Kai Dow",
+        "ingredients": [
+          "ground pork",
+          "Thai basil",
+          "garlic",
+          "Thai chilies",
+          "fish sauce",
+          "soy sauce",
+          "oyster sauce",
+          "fried egg",
+          "steamed rice"
+        ],
+        "cooking_method": "Stir-fry garlic and Thai chilies until fragrant. Add ground pork and cook until browned. Season with fish sauce, soy sauce, and oyster sauce. Add Thai basil and stir-fry until wilted. Serve with fried egg and steamed rice.",
+        "rating": 4.6
+      },
+      {
+        "id": 16,
+        "chef_id": 6,
+        "name": "Tom Kha Gai",
+        "ingredients": [
+          "coconut milk",
+          "chicken",
+          "galangal",
+          "lemongrass",
+          "kaffir lime leaves",
+          "mushrooms",
+          "Thai chili peppers",
+          "fish sauce",
+          "lime juice"
+        ],
+        "cooking_method": "Boil coconut milk with chicken, galangal, and lemongrass. Add kaffir lime leaves, mushrooms, and Thai chili peppers. Season with fish sauce and lime juice.",
+        "rating": 4.8
+      },
+      {
+        "id": 17,
+        "chef_id": 6,
+        "name": "Pad See Ew",
+        "ingredients": [
+          "wide rice noodles",
+          "beef",
+          "Chinese broccoli",
+          "garlic",
+          "soy sauce",
+          "oyster sauce",
+          "fish sauce",
+          "sugar"
+        ],
+        "cooking_method": "Stir-fry beef with garlic. Add Chinese broccoli and cook until tender. Add wide rice noodles and season with soy sauce, oyster sauce, fish sauce, and sugar.",
+        "rating": 4.5
+      },
+      {
+        "id": 18,
+        "chef_id": 6,
+        "name": "Massaman Curry",
+        "ingredients": [
+          "beef",
+          "potatoes",
+          "onions",
+          "peanuts",
+          "coconut milk",
+          "massaman curry paste",
+          "tamarind paste",
+          "fish sauce",
+          "palm sugar"
+        ],
+        "cooking_method": "Boil beef with massaman curry paste, coconut milk, tamarind paste, and fish sauce. Add potatoes and onions and cook until tender. Add peanuts and palm sugar.",
+        "rating": 4.9
+      }
+
+]    
